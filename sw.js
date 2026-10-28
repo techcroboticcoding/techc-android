@@ -1,5 +1,5 @@
 /* TECH-C CLASS PWA service worker. Never cache API/auth responses. */
-const VERSION = 'techc-class-pwa-v0.15.7';
+const VERSION = 'techc-class-pwa-v0.15.8';
 const SHELL_CACHE = `${VERSION}-shell`;
 const RUNTIME_CACHE = `${VERSION}-runtime`;
 const SHELL_FILES = [
